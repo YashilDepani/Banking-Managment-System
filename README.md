@@ -10,3 +10,5 @@ About this project:
   User can seek loan. Once it is sanctioned by admin , user will get loan
   
   Admin Login Credentials: username = 12345678, password = "admin".
+  
+    Admin can search, delete, modify accounts and grant loans
